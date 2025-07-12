@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#ff69b4"         # Hot pink buttons and accents
+backgroundColor="#fceef2ff"      # Lavender blush background
+secondaryBackgroundColor="#ffe6f0"  # Light pink sidebar
+textColor="#4d004d"            # Dark violet text
+font="sans serif"
