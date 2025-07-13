@@ -133,7 +133,6 @@ streamlit run app.py
 ```
 emotiondetector/
 ├── main.ipynb               
-├── emotion_model.pkl 
 ├── app.py                   # Streamlit app
 ├── emotion_model.pkl        # Trained model
 ├── tfidf_vectorizer.pkl     # Vectorizer
